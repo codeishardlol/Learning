@@ -39,5 +39,5 @@ if __name__=='__main__':
                 print(f'Epoch:{epoch+1},Batch:{batch_idx/len(train_loader)},Loss:{loss.item():.4f}')
     torch.save(model.state_dict(),'mnist.pth')
     endtime=time.time()
-    print(f'process finished! time in {endtime-starttime} sec')
+    print(f'process finished! time in: {endtime-starttime} sec')
     
