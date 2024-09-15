@@ -1,0 +1,6 @@
+JohnSmith,United States
+DavidJohnson,United States
+AlexanderMuller,Germany
+Friedrichchmidt,Germany
+IvanIanov,Russia
+PeterPetrov,Russia
